@@ -1,0 +1,23 @@
+{
+  "repo": "idevice-manager-pc-windows-guide",
+  "product": "IDevice Manager PC Windows Guide",
+  "kind": "mobile",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "mobile",
+  "topics": [
+    "idevice-manager",
+    "iphone-file-access",
+    "ios-backup",
+    "app-sideload-lab",
+    "device-console",
+    "idevice-setup-failed-fix",
+    "how-to-install-idevice",
+    "idevice-windows",
+    "idevice-desktop-2026",
+    "idevice-desktop-package"
+  ],
+  "site": "toolix.me"
+}
